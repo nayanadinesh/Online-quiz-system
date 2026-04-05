@@ -24,8 +24,10 @@ It allows users to take quizzes, view results, and helps administrators manage q
 - **IDE:** Eclipse / NetBeans  
 
 ---
+
 ## 📂 Project Structure
 
+```
 Online-quiz-system/
 │
 ├── src/           # Source code
@@ -35,6 +37,7 @@ Online-quiz-system/
 ├── .classpath     # Project classpath configuration
 ├── .project       # Project metadata
 └── README.md      # Project documentation
+```
 
 ---
 
